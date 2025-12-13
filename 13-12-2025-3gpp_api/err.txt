@@ -1,0 +1,5 @@
+APIResponseError: No endpoints found in the API spec
+APIResponseError: No endpoints found in the API spec
+APIResponseError: No endpoints found in the API spec
+APIResponseError: No endpoints found in the API spec
+APIResponseError: No endpoints found in the API spec

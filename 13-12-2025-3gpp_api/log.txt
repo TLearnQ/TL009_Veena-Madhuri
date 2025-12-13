@@ -1,0 +1,84 @@
+2025-12-13 09:08:57,362 | INFO | Starting service extraction
+2025-12-13 09:08:57,363 | INFO | Loading YAML: D:\3GPP_API_ASSIGNMENT\yamls\TS24283_Lms_Information.yaml
+2025-12-13 09:08:57,399 | INFO | Extracted endpoint: POST /requests
+2025-12-13 09:08:57,399 | INFO | Extracted endpoint: POST /subscriptions
+2025-12-13 09:08:57,399 | INFO | Extracted endpoint: PUT /subscriptions/{subscriptionId}
+2025-12-13 09:08:57,399 | INFO | Extracted endpoint: DELETE /subscriptions/{subscriptionId}
+2025-12-13 09:08:57,399 | INFO | Extracted endpoint: POST /configrequest
+2025-12-13 09:08:57,401 | INFO | Services saved
+2025-12-13 09:08:57,402 | INFO | Summary saved successfully
+2025-12-13 12:25:28,528 | INFO | Starting service extraction
+2025-12-13 12:25:28,528 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS24549_NSCE_SliceInfo.yaml
+2025-12-13 12:25:28,539 | INFO | Extracted endpoint: POST /edn-slice-subscriptions
+2025-12-13 12:25:28,539 | INFO | Extracted endpoint: POST /plmn-slice-subscriptions
+2025-12-13 12:25:28,539 | INFO | Extracted endpoint: POST /ns-info-subscriptions
+2025-12-13 12:25:28,540 | INFO | Services saved
+2025-12-13 12:25:28,540 | INFO | Summary saved successfully
+2025-12-13 12:29:39,047 | INFO | Starting service extraction
+2025-12-13 12:29:39,047 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS24558_Eees_EECRegistration.yaml
+2025-12-13 12:29:39,069 | INFO | Extracted endpoint: POST /registrations
+2025-12-13 12:29:39,069 | INFO | Extracted endpoint: PUT /registrations/{registrationId}
+2025-12-13 12:29:39,069 | INFO | Extracted endpoint: DELETE /registrations/{registrationId}
+2025-12-13 12:29:39,069 | INFO | Extracted endpoint: PATCH /registrations/{registrationId}
+2025-12-13 12:29:39,070 | INFO | Services saved
+2025-12-13 12:29:39,070 | INFO | Summary saved successfully
+2025-12-13 12:33:26,687 | INFO | Starting service extraction
+2025-12-13 12:33:26,687 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS24558_Eees_EECRegistration.yaml
+2025-12-13 12:33:26,728 | INFO | Extracted endpoint: POST /registrations
+2025-12-13 12:33:26,728 | INFO | Extracted endpoint: PUT /registrations/{registrationId}
+2025-12-13 12:33:26,728 | INFO | Extracted endpoint: DELETE /registrations/{registrationId}
+2025-12-13 12:33:26,728 | INFO | Extracted endpoint: PATCH /registrations/{registrationId}
+2025-12-13 12:33:26,730 | INFO | Services saved
+2025-12-13 12:33:26,731 | INFO | Summary saved successfully
+2025-12-13 12:34:14,384 | INFO | Starting service extraction
+2025-12-13 12:34:14,384 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS24558_Eees_EECRegistration.yaml
+2025-12-13 12:34:14,429 | INFO | Extracted endpoint: POST /registrations
+2025-12-13 12:34:14,429 | INFO | Extracted endpoint: PUT /registrations/{registrationId}
+2025-12-13 12:34:14,430 | INFO | Extracted endpoint: DELETE /registrations/{registrationId}
+2025-12-13 12:34:14,430 | INFO | Extracted endpoint: PATCH /registrations/{registrationId}
+2025-12-13 12:34:14,431 | INFO | Services saved
+2025-12-13 12:34:14,432 | INFO | Summary saved successfully
+2025-12-13 12:34:22,856 | INFO | Starting service extraction
+2025-12-13 12:34:22,857 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS24558_Eees_EECRegistration.yaml
+2025-12-13 12:34:22,894 | INFO | Extracted endpoint: POST /registrations
+2025-12-13 12:34:22,894 | INFO | Extracted endpoint: PUT /registrations/{registrationId}
+2025-12-13 12:34:22,894 | INFO | Extracted endpoint: DELETE /registrations/{registrationId}
+2025-12-13 12:34:22,894 | INFO | Extracted endpoint: PATCH /registrations/{registrationId}
+2025-12-13 12:34:22,896 | INFO | Services saved
+2025-12-13 12:34:22,897 | INFO | Summary saved successfully
+2025-12-13 12:34:35,888 | INFO | Starting service extraction
+2025-12-13 12:34:35,888 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS24558_Eees_EECRegistration.yaml
+2025-12-13 12:34:35,925 | INFO | Extracted endpoint: POST /registrations
+2025-12-13 12:34:35,926 | INFO | Extracted endpoint: PUT /registrations/{registrationId}
+2025-12-13 12:34:35,926 | INFO | Extracted endpoint: DELETE /registrations/{registrationId}
+2025-12-13 12:34:35,926 | INFO | Extracted endpoint: PATCH /registrations/{registrationId}
+2025-12-13 12:34:35,928 | INFO | Services saved
+2025-12-13 12:34:35,928 | INFO | Summary saved successfully
+2025-12-13 12:36:03,249 | INFO | Starting service extraction
+2025-12-13 12:36:03,250 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS26113_Maf_SessionHandling.yaml
+2025-12-13 12:36:03,255 | ERROR | APIResponseError: No endpoints found in the API spec
+2025-12-13 12:36:35,986 | INFO | Starting service extraction
+2025-12-13 12:36:35,987 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS26113_Maf_SessionHandling.yaml
+2025-12-13 12:36:35,994 | ERROR | APIResponseError: No endpoints found in the API spec
+2025-12-13 12:36:47,959 | INFO | Starting service extraction
+2025-12-13 12:36:47,960 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS26113_Maf_SessionHandling.yaml
+2025-12-13 12:36:47,965 | ERROR | APIResponseError: No endpoints found in the API spec
+2025-12-13 12:38:04,437 | INFO | Starting service extraction
+2025-12-13 12:38:04,438 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS26512_CommonData.yaml
+2025-12-13 12:38:04,454 | ERROR | APIResponseError: No endpoints found in the API spec
+2025-12-13 12:40:06,714 | INFO | Starting service extraction
+2025-12-13 12:40:06,714 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS28531_NSSProvMnS.yaml
+2025-12-13 12:40:06,722 | INFO | Extracted endpoint: POST /SliceProfiles
+2025-12-13 12:40:06,722 | INFO | Extracted endpoint: DELETE /SliceProfiles/{SliceProfileId}
+2025-12-13 12:40:06,724 | INFO | Services saved
+2025-12-13 12:40:06,725 | INFO | Summary saved successfully
+2025-12-13 12:41:25,475 | INFO | Starting service extraction
+2025-12-13 12:41:25,475 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS26113_Maf_SessionHandling.yaml
+2025-12-13 12:41:25,481 | ERROR | APIResponseError: No endpoints found in the API spec
+2025-12-13 13:06:30,581 | INFO | Starting service extraction
+2025-12-13 13:06:30,581 | INFO | Loading YAML: 3GPP_API_ASSIGNMENT\yamls\TS24549_NSCE_SliceInfo.yaml
+2025-12-13 13:06:30,601 | INFO | Extracted endpoint: POST /edn-slice-subscriptions
+2025-12-13 13:06:30,601 | INFO | Extracted endpoint: POST /plmn-slice-subscriptions
+2025-12-13 13:06:30,602 | INFO | Extracted endpoint: POST /ns-info-subscriptions
+2025-12-13 13:06:30,603 | INFO | Services saved
+2025-12-13 13:06:30,603 | INFO | Summary saved successfully
